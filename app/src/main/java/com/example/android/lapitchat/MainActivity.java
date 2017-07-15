@@ -15,7 +15,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 public class MainActivity extends AppCompatActivity {
-    //test
+    //test2
 
     private FirebaseAuth mAuth;
     private Toolbar mToolbar;
